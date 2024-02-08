@@ -2,6 +2,8 @@
 
 This project is a realtime chat application built using Django, a Python web framework. The application allows users to engage in conversations in real time, providing a seamless communication experience.
 
+<img src="djangochat.png"/>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
