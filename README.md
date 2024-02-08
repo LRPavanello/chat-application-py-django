@@ -4,6 +4,8 @@ This project is a realtime chat application built using Django, a Python web fra
 
 <img src="djangochat.png"/>
 
+<img src="djangochatroom.png"/>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
